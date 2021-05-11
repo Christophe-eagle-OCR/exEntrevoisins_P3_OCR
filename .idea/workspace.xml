@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ac6f5e00-9a1e-470f-a4f9-a49e5efdc80f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/OpenClassrooms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Android/Entrevoisins/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Android/Entrevoisins/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android/Entrevoisins/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Android/Entrevoisins/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android/Entrevoisins/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Android/Entrevoisins/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Android/Entrevoisins/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Android/Entrevoisins/.idea/runConfigurations.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1sLtb7km6GwOLuGGQcOMBw6rg2J" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pathVariables" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac6f5e00-9a1e-470f-a4f9-a49e5efdc80f" name="Default Changelist" comment="" />
+      <created>1620663765661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620663765661</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3593" y="345" key="#Notifications" timestamp="1620663881747">
+      <screen x="2880" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3593" y="345" key="#Notifications/0.0.1280.680/2880.0.1920.1040@2880.0.1920.1040" timestamp="1620663881747" />
+    <state x="3621" y="276" key="FileChooserDialogImpl" timestamp="1620664641862">
+      <screen x="2880" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3621" y="276" key="FileChooserDialogImpl/0.0.1280.680/2880.0.1920.1040@2880.0.1920.1040" timestamp="1620664641862" />
+    <state x="3631" y="422" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1620663974842">
+      <screen x="2880" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3631" y="422" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1280.680/2880.0.1920.1040@2880.0.1920.1040" timestamp="1620663974842" />
+  </component>
+</project>
